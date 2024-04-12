@@ -1,4 +1,4 @@
-#此題for c 和 c++ 所以不會過是正常的
+#此題for c 和 c++ 所以不會過是正常的：D
 n = int(input())
 arr = []
 vis = [[1]*n for _ in range(n)]
