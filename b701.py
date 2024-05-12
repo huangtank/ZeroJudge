@@ -1,3 +1,4 @@
+#BFS
 def BFS(x, y):
     ans = [y,x,y,x,1] #W N E S A
     q = [(x, y)]

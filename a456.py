@@ -1,3 +1,4 @@
+#DFS
 for _ in range(int(input())):
     n = int(input())
     num = [i for i in range(1, n+1)]

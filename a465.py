@@ -1,3 +1,4 @@
+#貪心
 for i in range(1, int(input())+1):
     n = int(input())
     jump = 0

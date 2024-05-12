@@ -1,3 +1,4 @@
+#BFS
 def BFS(x, y, z):
     q = [(x, y, z)]
     head = 0

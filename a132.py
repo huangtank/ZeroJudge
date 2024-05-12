@@ -1,3 +1,4 @@
+#進位
 while True:
     n = bin(int(input()))[2::]
     if n == '0':

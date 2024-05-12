@@ -1,3 +1,4 @@
+#DAC, tree
 for _ in range(int(input())):
     d, i = map(int, input().split())
     n = 1
