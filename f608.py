@@ -8,7 +8,6 @@ def bin_search(v):
         else:
             right = mid
     return left
-
 n = int(input())
 p = []
 for _ in range(n):
