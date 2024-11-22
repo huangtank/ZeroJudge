@@ -1,4 +1,7 @@
 #歐拉算法
+#ep 表示 dfs前序
+#depth 表示 ep index 裡的深度
+#first 表示每個在 ep index 最先出現
 from collections import defaultdict
 import sys
 n, Q = map(int, input().split())
