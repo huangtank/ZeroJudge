@@ -1,3 +1,4 @@
+#實作
 a, b, c, d = map(int, input().split())
 while not(a == b == c == d == 0):
     total = 360*3
