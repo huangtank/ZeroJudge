@@ -1,7 +1,7 @@
 #math
 n = int(input())
 flag = True
-for i in range(2, n):
+for i in range(2, int(n**0.5)+1):
     if not(n%i):
         for j in range(2, int(i**0.5)+1):
             if not(i%j):
@@ -17,4 +17,3 @@ for i in range(2, n):
                 break
 if flag:
     print(0, 0)
-#TLE
